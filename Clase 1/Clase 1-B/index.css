@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
+
+/* #cero {
+    width: 1000px;
+} */
+
+#uno {
+    font-family: 'Montserrat', black;
+    font-weight: bold;
+    font-size: 50pt;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+
+#dos {
+    font-family: 'Montserrat', black;
+    font-weight: bold;
+    font-size: 148pt;
+    color: black;
+    background-color: white;
+}
+
+#tres {
+    font-family: 'Montserrat', black;
+    font-weight: bold;
+    font-size: 163pt;
+    background-color: black;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+#cuatro {
+    font-family: 'Montserrat', black;
+    font-size: 45pt;
+    float: none;
+	display: inline-block;
+}
+
+#cinco {
+    font-family: 'Montserrat';
+    font-size: 44pt;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#seis {
+    font-family: 'Montserrat';
+    font-size: 36pt;
+    float: none;
+	display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#siete {
+    width: 100%;
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+
+body {
+    text-align: center;
+}
