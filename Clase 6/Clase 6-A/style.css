@@ -1,0 +1,54 @@
+@font-face {
+    font-family: StyleFont1;
+    src: url(./font/coolvetica\ rg.otf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: StyleFont2;
+    src:  url(./font/Roboto-Light.ttf);
+    font-weight: 400;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: StyleFont1;
+    font-size: 120px;
+    color: #0a2ff1;
+}
+
+p {
+    font-family: StyleFont2;
+    font-size: 40px;
+    font-weight: 200;
+    color: #04146c;
+    margin-bottom: 80px;
+}
+
+button {
+    display: block;
+    font-family: StyleFont2;
+    font-size: 40px;
+    margin: 30px auto;
+    width: 500px;
+    height: 70px;
+}
+
+#generator {
+    background-color: #0a2ff1;
+    color: white;
+    border-color: #0a2ff1;
+}
+
+#others {
+    color: #04146c;
+    background-color: white;
+    border-color: #0a2ff1;
+}
